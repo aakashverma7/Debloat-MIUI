@@ -1,6 +1,10 @@
 It is suggested you setup your device completely before proceeding with the debloat.
 Credit to N7-BADA for most of the commands and guiding me (https://github.com/N7-BADA/)
-Note: I am not responsible for any bootloops, data loss or any other damage caused to your device.
+
+Note: I am not responsible for any bootloops, data loss or any other damage caused to your device. Please modify the list in case you want to keep a particular app.
+
+Connect your device to the PC and turn on USB debugging from developer options. 
+Open CMD and type in "adb shell" (without quotes)
 
 Copy and paste the below code.
 
