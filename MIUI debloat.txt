@@ -1,7 +1,8 @@
 It is suggested you setup your device completely before proceeding with the debloat.
+Credit to N7-BADA for most of the commands and guiding me (https://github.com/N7-BADA/)
 Note: I am not responsible for any bootloops, data loss or any other damage caused to your device.
 
-Copy and paste the below.
+Copy and paste the below code.
 
 pm uninstall -k --user 0 android.autoinstalls.config.Xiaomi.qssi
 pm uninstall -k --user 0 com.amazon.fv
