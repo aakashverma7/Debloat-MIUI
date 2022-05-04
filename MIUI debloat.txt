@@ -1,3 +1,8 @@
+It is suggested you setup your device completely before proceeding with the debloat.
+Note: I am not responsible for any bootloops, data loss or any other damage caused to your device.
+
+Copy and paste the below.
+
 pm uninstall -k --user 0 android.autoinstalls.config.Xiaomi.qssi
 pm uninstall -k --user 0 com.amazon.fv
 pm uninstall -k --user 0 com.amazon.kindle
